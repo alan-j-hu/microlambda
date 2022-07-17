@@ -1,0 +1,15 @@
+build
+*.o
+
+.deps
+
+Makefile
+Makefile.in
+/aclocal.m4
+/autom4te.cache
+/config.*
+/configure
+/compile
+/depcomp
+/install-sh
+/missing
